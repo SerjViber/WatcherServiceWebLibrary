@@ -1,0 +1,13 @@
+#
+/venv/Lib/site-packages
+#
+/venv/Scripts
+#
+/dist
+#
+/__pycache__
+#
+/build
+#
+/venv
+
